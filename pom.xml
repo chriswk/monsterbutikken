@@ -11,7 +11,7 @@
 
     <properties>
         <jetty.version>9.1.1.v20140108</jetty.version>
-        <spring.version>4.0.0.RELEASE</spring.version>
+        <spring.version>4.0.2.RELEASE</spring.version>
     </properties>
 
     <dependencies>
@@ -84,6 +84,17 @@
             <groupId>org.codehaus.jackson</groupId>
             <artifactId>jackson-core-asl</artifactId>
             <version>1.9.13</version>
+        </dependency>
+        <dependency>
+            <groupId>com.google.guava</groupId>
+            <artifactId>guava</artifactId>
+            <version>16.0.1</version>
+        </dependency>
+        <dependency>
+            <groupId>junit</groupId>
+            <artifactId>junit</artifactId>
+            <version>4.11</version>
+            <scope>test</scope>
         </dependency>
     </dependencies>
 
