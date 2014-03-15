@@ -15,7 +15,7 @@ public class MonsterTypesRepo {
         monsterTypes.put("Basilisk", new MonsterTypeJson("Basilisk", 175000));
         monsterTypes.put("Det erymanthiske villsvin", new MonsterTypeJson("Det erymanthiske villsvin", 25000));
         monsterTypes.put("Griff", new MonsterTypeJson("Griff", 12000));
-        monsterTypes.put("Hamloper", new MonsterTypeJson("Haoløper", 8000));
+        monsterTypes.put("Haoløper", new MonsterTypeJson("Haoløper", 8000));
         monsterTypes.put("Hippogriff", new MonsterTypeJson("Hippogriff", 128000));
         monsterTypes.put("Hydra", new MonsterTypeJson("Hydra", 38000));
         monsterTypes.put("Kentaur", new MonsterTypeJson("Kentaur", 76000));

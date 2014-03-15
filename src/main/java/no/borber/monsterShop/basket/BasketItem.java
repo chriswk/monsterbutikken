@@ -10,6 +10,12 @@ public class BasketItem {
         this.pris = price;
     }
 
+    public BasketItem(String monsterType, double pris, int number) {
+        this.monsterType = monsterType;
+        this.pris = pris;
+        this.number = number;
+    }
+
     public void addMonster() {
         this.number++;
     }
