@@ -10,7 +10,7 @@
     <version>0.1-SNAPSHOT</version>
 
     <properties>
-        <jetty.version>9.1.1.v20140108</jetty.version>
+        <jetty.version>9.4.41.v20210516</jetty.version>
         <spring.version>4.0.2.RELEASE</spring.version>
     </properties>
 
